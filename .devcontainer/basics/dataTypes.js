@@ -12,13 +12,13 @@ let name="Sreejal"
 let age=32
 let isLOggedin=true
 
-//number => 2 to power 53
-//bigint
-//string =>""
+//------primitive data tyepes ---number => 2 to power 53
+//bigint it will be used in large numbers specially trading and stock market
+//string =>""could be use in single and double quote
 //boolean =>true/false
 //null=>standalone value
 //undefined =>
-    //symbol =>basically use in unique and react
+    //symbol =>basically use in unique and react when we make compononnets for 
 
 //object
 

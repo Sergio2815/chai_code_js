@@ -34,3 +34,36 @@ let num=45
 let numTostring=String(num)
 console.log(typeof numTostring)
 console.log(numTostring)
+
+/* ****OPerations ***************
+//console.log(2**3)---it means 2^3==8
+and add,sub,mul,div ,rem i know
+
+*/
+let str1="hello"
+let str2="raju"
+let str3=str1+str2
+console.log(str3+" mistry");
+
+console.log(3+4*7/5)
+//dont do these type of tricky operations
+// it is ok for exams but in development 
+// it is useless
+// instead
+// Use
+console.log((3+4)/7)//can use in paranthesis
+// to be more readable4
+
+// again next thing is 
+console.log(+true)//basically it gives the value1
+console.log(+false)//similarly hero value of false 0 if we give negative the it will print negative 0 in false negative 1 in true
+console.log(+"")//0
+//sincle true value is 0 so it will print 1 
+// console.log(true+)//error
+
+let num1,num2,num3
+num1=num2=num3=2+2//dont write tricky code like this focus on readability because people will read your code
+let gameCounter=100
+gameCounter++
+console.log( ++gameCounter)
+
