@@ -47,3 +47,13 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+//+++++++++++++++++++++++++++++
+//Stack-it is used in all primitive ,when this is declared we 
+get a copy of the variable
+// ,Heap memory-it is used in all non primitive,when 
+we declare thi varibale we get reference of this variable
+
+
+//
