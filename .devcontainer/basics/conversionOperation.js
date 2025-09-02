@@ -66,4 +66,7 @@ num1=num2=num3=2+2//dont write tricky code like this focus on readability becaus
 let gameCounter=100
 gameCounter++
 console.log( ++gameCounter)
+consoel.log(gameCounter++)
+//will study somee postfic and prefix from mdn ir chatgpt
+
 
